@@ -4,4 +4,6 @@ This is part of the <b> Udemy Full Stack Course by Dr.Angela Yu <b>
 <ol>
   <li>Using Favicons</li>
   <li>HTML Divs</li>
+  <li>Display Methods</li>
+  <li>Alignment</li> 
 </ul>
