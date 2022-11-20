@@ -18,11 +18,19 @@ h1{
 .skill-image1{
     width: 25%;
     float: left;
+    margin-right: 30px;
 }
 .skill-image2{
     width: 25%;
+    float: right;
+    margin-bottom: 30px;
 }
-
+.break2{
+    clear:right;
+}
+.skills{
+    height:200%;
+}
 .skill-row{
     margin:100px auto 100px auto;
     width: 50%;

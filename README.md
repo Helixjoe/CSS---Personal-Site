@@ -7,4 +7,7 @@ This is part of the <b> Udemy Full Stack Course by Dr.Angela Yu <b>
   <li>Display Methods</li>
   <li>Alignment</li> 
   <li>Fonts Family</li>
+  <li>Font Properties</li>
+  <li>Positioning</li>
+  <li>Float</li>
 </ul>
